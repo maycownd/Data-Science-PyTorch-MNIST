@@ -1,10 +1,11 @@
-! Data/
-Data/*
-! Data/raw
-! Data/raw/sample.csv
-Data/raw/*
-! Data/tests
-Data/raw/working
+!/Data/
+/Data/*
+!/Data/tests/.gitkeep
+!/Data/raw
+!/Data/raw/sample.csv
+/Data/raw/*
+!/Data/tests
+/Data/raw/working
 *.pyc
 *.csv
 *.pkl
