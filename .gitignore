@@ -9,5 +9,4 @@
 /Data/raw/working/*
 !/Data/raw/working/sample
 *.pyc
-*.csv
 *.pkl
