@@ -3,9 +3,10 @@
 !/Data/tests/.gitkeep
 !/Data/raw
 !/Data/raw/sample.csv
-/Data/raw/*
+/Data/raw/fa*
 !/Data/tests
-/Data/raw/working
+/Data/raw/working/*
+!//Data/raw/working/sample
 *.pyc
 *.csv
 *.pkl
