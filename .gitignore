@@ -2,11 +2,12 @@
 /Data/*
 !/Data/tests/.gitkeep
 !/Data/raw
+!/Data/raw/.gitkeep
 !/Data/raw/sample.csv
 /Data/raw/fa*
 !/Data/tests
 /Data/raw/working/*
-!//Data/raw/working/sample
+!/Data/raw/working/sample
 *.pyc
 *.csv
 *.pkl
