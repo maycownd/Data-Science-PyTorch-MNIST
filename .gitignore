@@ -1,0 +1,10 @@
+*.pyc
+*.csv
+*.pkl
+! /Data/
+/Data/*
+! /Data/raw
+/Data/raw/*
+! /Data/raw/sample.csv
+! /Data/tests
+/Data/raw/working
