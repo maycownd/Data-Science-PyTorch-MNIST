@@ -1,10 +1,10 @@
-! /Data/
-/Data/*
-! /Data/raw
-/Data/raw/*
-! /Data/raw/sample.csv
-! /Data/tests
-/Data/raw/working
+! Data/
+Data/*
+! Data/raw
+Data/raw/*
+! Data/raw/sample.csv
+! Data/tests
+Data/raw/working
 *.pyc
 *.csv
 *.pkl
