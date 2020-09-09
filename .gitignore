@@ -6,9 +6,8 @@
 !/Data/models/best_model.pth
 !/Data/tests
 !/Data/raw/working/sample
+!/Data/models/.gitkeep
 *.pyc
-*.pkl
-/Data/models/*
 /Data/*
-/Data/raw/fa*
+/Data/raw/*
 /Data/raw/working/*
