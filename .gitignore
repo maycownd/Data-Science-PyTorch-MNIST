@@ -8,6 +8,6 @@
 !/Data/raw/working/sample
 !/Data/models/.gitkeep
 *.pyc
-/Data/*
+*.pkl
 /Data/raw/*
 /Data/raw/working/*
