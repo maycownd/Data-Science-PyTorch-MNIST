@@ -1,12 +1,14 @@
 !/Data/
-/Data/*
 !/Data/tests/.gitkeep
 !/Data/raw
 !/Data/raw/.gitkeep
 !/Data/raw/sample.csv
-/Data/raw/fa*
+!/Data/models/best_model.pth
 !/Data/tests
-/Data/raw/working/*
 !/Data/raw/working/sample
 *.pyc
 *.pkl
+/Data/models/*
+/Data/*
+/Data/raw/fa*
+/Data/raw/working/*
