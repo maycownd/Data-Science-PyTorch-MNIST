@@ -9,5 +9,6 @@
 !/Data/models/.gitkeep
 *.pyc
 *.pkl
+/Data/models/*
 /Data/raw/*
 /Data/raw/working/*
